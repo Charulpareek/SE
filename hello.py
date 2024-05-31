@@ -1,2 +1,2 @@
-print("Hello second years")
+print("Hello *Third years")
 print("Welcome To SR UNIVERSITY")
